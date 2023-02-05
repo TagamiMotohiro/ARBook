@@ -56,3 +56,10 @@ UnityCS_NetWork/UserSettings/Layouts/default-2021.dwlt
 UnityCS_NetWork/obj/
 UnityCS_NetWork/Temp/
 UnityCS_NetWork/UserSettings/EditorUserSettings.asset
+ARBook/obj/Debug/BindSystem.csproj.AssemblyReference.cache
+ARBook/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+ARBook/obj/Debug/DummyImplements.csproj.AssemblyReference.cache
+ARBook/obj/Debug/FeatureComponents.Editor.csproj.AssemblyReference.cache
+ARBook/obj/Debug/IFeatureComponents.csproj.AssemblyReference.cache
+ARBook/obj/Debug/Simulator.Editor.csproj.AssemblyReference.cache
+ARBook/obj/Debug/STYLY_MaintenranceTool.Runtime.csproj.AssemblyReference.cache
